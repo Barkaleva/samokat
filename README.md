@@ -1,0 +1,2 @@
+# samokat
+diploma
